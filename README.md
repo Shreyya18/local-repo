@@ -1,4 +1,4 @@
-in this repo we learn how to upload code from local machine to github repo
+uploading  code from local machine to github repo
 <br>
 first create a project in code editor (vs code)
 
