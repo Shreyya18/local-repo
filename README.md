@@ -1,3 +1,5 @@
+# local repo
+<br>
 uploading  code from local machine to github repo
 <br>
 first create a project in code editor (vs code)
