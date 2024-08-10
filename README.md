@@ -16,6 +16,7 @@ git push origin main
 
 you can also use,
 
-git push -u origin main
+git push -u origin main 
+(can use git push after this)
 
 
