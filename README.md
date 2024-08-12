@@ -3,7 +3,7 @@
 uploading  code from local machine to github repo
 <br>
 first create a project in code editor (vs code)
-
+<br>
 git init 
 
 git remote add origin <link>
