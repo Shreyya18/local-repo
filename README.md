@@ -10,7 +10,7 @@ git remote add origin <link>
 
 git remote -v
 
-git branch -M maim
+git branch -M main
 
 git push origin main
 
